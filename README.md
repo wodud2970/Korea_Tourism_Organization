@@ -17,10 +17,10 @@
 
 ### 근로자 휴가를 위한 여행 후 환급 서비스 플랫폼 개발
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4f91cebf-1f99-4ff0-bcd1-e07b90fcb503/Untitled.png)
+![Untitled](image/1.png)
 
 ### 기술 스택
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4f91cebf-1f99-4ff0-bcd1-e07b90fcb503/Untitled.png)
+![Untitled](image/11.png)
 
 ### 관광 데이터 수집
 
@@ -28,14 +28,14 @@
 
 - 시군구 데이터 경계 데이터
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fc3962a2-3171-49e8-a6c0-719ac052dfd0/Untitled.png)
+![Untitled](image/2.png)
 
 - 관광지 정보
     - 관광지 (한국관광공사)
     - 음식점 (망고플레이트, 골목식당, 맛있는 녀석들)
     - 주유소 (공공데이터)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7b90a001-1ec3-4089-8cec-ef92a7dbd460/Untitled.png)
+![Untitled](image/3.png)
 
 ## 플랫폼 개발
 
@@ -46,11 +46,11 @@
     - 인기 여행 콘텐츠
     - 사용자 후기 페이지
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f2aa0111-a392-4281-9649-fe3ea6bff546/Untitled.png)
+![Untitled](image/4.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f5f48f2d-7271-4d8c-8d6c-24bc85e0a3c7/Untitled.png)
+![Untitled](image/5.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8f7d078f-7d0f-4761-926c-61046449c5db/Untitled.png)
+![Untitled](image/6.png)
 
 - 여행지 플랜 페이지
     - 사후 정산 시스템 기준을 위한 여행일정, 시군구 기준 플랜 만들기
@@ -60,15 +60,15 @@
         - 주유소
     - 선택한 관광지 목록을 띄우는 박스
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c99fc046-6901-40bb-81c8-a9da4e8dc7f5/Untitled.png)
+![Untitled](image/7.png)
 
 - 사용자 마이페이지
     - 저장한 여행 일정 페이지
     - 여행지 리뷰 페이지
     - 실제 사용자가 여행지를 다녀와 정산을 받는 페이지
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7a2b058e-0455-4df3-94c9-9154e1a7d00e/Untitled.png)
+![Untitled](image/8.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/751d97cc-9cfd-45bf-83ed-b19dc3dd6b73/Untitled.png)
+![Untitled](image/9.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cf2b7680-ad3a-4d39-ba05-34f2af386d10/Untitled.png)
+![Untitled](image/10.png)
